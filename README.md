@@ -1,5 +1,6 @@
 # TrixcyAI - Your Friendly Chatbot Companion
 
+![logo](https://github.com/Rahul03680/TrixcyAi/assets/65272042/f272afdc-6948-4f47-967d-efb3c9bbcd0f)
 
 Welcome to TrixcyAI, your friendly chatbot companion powered by OpenAI's cutting-edge technology. TrixcyAI is here to make your life easier, more fun, and more productive. Whether you need a quick conversation, assistance with tasks, or just someone to talk to, TrixcyAI has got you covered!
 
